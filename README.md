@@ -18,3 +18,5 @@
 ![alt_text](https://github.com/John-Frye/housing_development_in_baltimore/blob/main/Screen%20Shot%202020-12-16%20at%205.18.34%20PM.png)
 
 ## Final Recommendations 
+
+A comprehensive overview of our recommendations [can be accessed here](https://github.com/John-Frye/housing_development_in_baltimore/blob/main/Recommendation_Frye_Tien.pdf).
