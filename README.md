@@ -68,6 +68,10 @@ Of note, none of our identified target areas in Cluster 3 overlapped with any Op
 
 ## Final Recommendations 
 
+The following recommendations are intended for the Baltimore Department of Housing and Community Development. Our recommendations are two-fold: suggestions on existing city-wide initiatives, and new neighborhood-level policies. For city-wide initiatives, the Department of Housing and Community Development should fund independent community land trusts, which provide relief for Baltimore’s lowest income residents who do not have enough income for a long-term saving plan. In combination with community land trusts, funding housing refurbishment and transfer of vacant properties to land trusts will provide a select number of low-income housing modules to those in dire need, while also increasing the property values of current homeowners and allowing for the accruement of intergenerational wealth. Lastly, the department should also increase its funding to housing vouchers for low-income renters and homeowners to offset their rising living costs. 
+
+The implementation of neighborhood-specific programs, in combination with city-level initiatives mentioned in the previous section, will address the economic and environmental needs of low-income neighborhoods. To stimulate economic opportunity, policies to establish incubators for Black-owned businesses will provide the financial and educational resources needed to jumpstart businesses. Second, each neighborhood can partner with local non-profits to focus on housing renovation projects to revitalize vacant properties (this step can work in tandem with city-wide refurbishment programs). Lastly, youth education centers with low-cost services such as mental health services, career and leadership development, and STEM education. Prioritizing youth education equips younger populations with the skillsets necessary to succeed in the future.
+
 A comprehensive overview of our recommendations [can be accessed here](https://github.com/John-Frye/housing_development_in_baltimore/blob/main/Recommendation_Frye_Tien.pdf). A condensed version of our recommendations....
 
 
