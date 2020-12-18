@@ -9,9 +9,31 @@ How successful are Opportunity Zones in Baltimore at stimulating economic growth
 Which metrics of housing development are statistically significant in regards to percent-nonwhite (an indicator of neighborhoods within the Black Butterfly)? Does private investment decrease mortgage affordability in Baltimore? What impact have Opportunity Zones had on metrics of housing development? 
 
 ## Data Sources
+[Raw dataset](Final_Raw_Data.xlsx) were pulled from two open sources: Opportunity Insights’ [Opportunity Atlas](https://www.opportunityatlas.org/) and Baltimore Neighborhood Indicators Alliance’s [Vital Signs Open Data Portal](https://data-bniajfi.opendata.arcgis.com/), both of which quantitatively measure indicators of neighborhoods’ standard of living and overall well-being. The following variables were included in the multiple regression model, the first step of data analysis.
 
+1. Percent non-White 
+1. Average household income 
+1. Percent of vacant and abandoned residential properties 
+1. Rent affordability index - percentage of households that pay more than 30% of total household income on rent and related expenses 
+1. Mortgage affordability index - percentage of households that pay more than 30% of total household income on mortgage and housing-related expenses 
+1. Percent of vacant city-owned properties 
+1. Median price of homes sold 
+1. Percent of owner-occupied housing units 
+1. Rate of housing vouchers per 1,000 rental units - percentage of tenants in private rental market that are on housing voucher holders 
+1. Total number of commercial properties 
+1. Population growth/decline 
+1. Number of banks per 1,000 residents
+1. Total dollar amount invested in small business (per 50 businesses)
+1. Percent of employed population with travel time to work of 0-14 minutes
+1. Unemployment rate
 
 ## Data Answer 
+Of the 15 datasets, with “Percent non-White” as the predicted variable in the multiple regression model, 4 variables were statistically significant, designated by a p-value less than 0.05: household income, mortgage affordability, percent of owner-occupied housing units, and percent of employed population with travel time to work of 0-14 minutes. Statistical significance of these variables indicate that they are reliable determinants of neighborhood standard of living, and they should be variables of interest as we move forward with data analysis.
+
+![Alt text](clusters-map.png)
+
+This map of neighborhoods organized by risk factors provides a visual representation of the areas within the city that are in dire need of resources for economic growth. Neighborhoods in cluster 3 are at the highest risk of poor infrastructure - low-income residents struggle with secure housing and high commute times attributed to the lack of economic opportunity in their vicinity. Cluster 3 neighborhoods, as shown in the map, is located in the “Black Butterfly,” which encompasses the disadvantaged areas of West and East Baltimore. 
+
 While many of the data analysis’ variables are not statistically significant when compared to race, the metric used to gauge neighborhoods in the black butterfly, many of the variables are statistically significant and correlated when compared directly to one another. Mortgage Affordability and Average Small Business Investment share a correlation of -0.27, meaning that mortgage affordability decreases on average when small business investment increases. This correlation is statistically significant, having a p-value of 0.007. The relationship between mortgage affordability and small business investment in Baltimore is modeled below:
 
 ![alt_text](https://github.com/John-Frye/housing_development_in_baltimore/blob/main/Screen%20Shot%202020-12-16%20at%202.33.18%20PM.png)
