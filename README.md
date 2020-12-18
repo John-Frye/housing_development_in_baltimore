@@ -30,7 +30,7 @@ Which metrics of housing development are statistically significant in regards to
 ## Data Answer 
 Of the 15 datasets, with “Percent non-White” as the predicted variable in the multiple regression model, 4 variables were statistically significant, designated by a p-value less than 0.05: household income, mortgage affordability, percent of owner-occupied housing units, and percent of employed population with travel time to work of 0-14 minutes. Statistical significance of these variables indicate that they are reliable determinants of neighborhood standard of living, and they should be variables of interest as we move forward with data analysis.
 
-![Alt text](clusters-map.png)
+![Alt text](clusters-map.png) ![Alt text](clusters-legend.png)
 
 This map of neighborhoods organized by risk factors provides a visual representation of the areas within the city that are in dire need of resources for economic growth. Neighborhoods in cluster 3 are at the highest risk of poor infrastructure - low-income residents struggle with secure housing and high commute times attributed to the lack of economic opportunity in their vicinity. Cluster 3 neighborhoods, as shown in the map, is located in the “Black Butterfly,” which encompasses the disadvantaged areas of West and East Baltimore. 
 
