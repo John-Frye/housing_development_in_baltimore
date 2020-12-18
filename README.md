@@ -72,7 +72,23 @@ The following recommendations are intended for the Baltimore Department of Housi
 
 The implementation of neighborhood-specific programs, in combination with city-level initiatives mentioned in the previous section, will address the economic and environmental needs of low-income neighborhoods. To stimulate economic opportunity, policies to establish incubators for Black-owned businesses will provide the financial and educational resources needed to jumpstart businesses. Second, each neighborhood can partner with local non-profits to focus on housing renovation projects to revitalize vacant properties (this step can work in tandem with city-wide refurbishment programs). Lastly, youth education centers with low-cost services such as mental health services, career and leadership development, and STEM education. Prioritizing youth education equips younger populations with the skillsets necessary to succeed in the future.
 
-A comprehensive overview of our recommendations [can be accessed here](https://github.com/John-Frye/housing_development_in_baltimore/blob/main/Recommendation_Frye_Tien.pdf). A condensed version of our recommendations....
-
+Our proposal's costs can be broken down as follows: 
 
 ![alt_text](https://github.com/John-Frye/housing_development_in_baltimore/blob/main/Screen%20Shot%202020-12-16%20at%205.18.34%20PM.png)
+
+As the Department of Housing and Community Development should apply our recommendations on an initially small scale to troubleshoot their efficacy, we recommend that our stakeholder invests around $4.68 million into refurbishing the 65 abandoned homes already in its possession in target neighborhoods. 
+
+A total investment of $20 million should be placed in housing programs identified in the housing initiatives section.
+
+$24 million should be invested in total in the black business incubator, as we project the majority of selected neighborhoods’ economic growth and poverty reduction will result from revitalized local businesses. 
+
+$1,000,000 in additional funding should be provided to support existing Youth Education programs. $650,000 should be designated for data collection and the appointment of government officials to neighborhood councils in target areas.
+
+Funding for neighborhood level programs should come from two main sources. The first is the $6.5 billion in federal assistance that Baltimore receives each year. The second is private investment from an existing network of stakeholders and community funds within the Opportunity Zones program, in addition to a network of real estate investors willing to capitalize on Opportunity Zone tax benefits. 
+
+For the housing initiatives, funding will be derived from a proposed $20 million contract for community land trust investment that Baltimore City is set to enact by 2023. We recommend re-allocating these funds towards our project, with $5 million going towards community land trust investments, and the remaining $15 million going towards housing vouchers for low-income residents. 
+
+The current minimum budget of $50.1 million is designed only to accommodate a small-scale test of our development proposal in select neighborhoods. If the program can raise household incomes without significantly displacing local residents, then the Department of Housing and Community Development can scale it up to all of the city’s Opportunity Zones. Such an increase in scope would necessitate a proportional increase in the amount of funding required. Furthermore, elements of the program, such as funding for land trusts, housing vouchers, business incubators, and youth education centers will need to be funded on an ongoing basis beyond the initial trial period’s first year. Annually, the Department will also need to gather data on standard of living indicators and community feedback to ensure that the program is meeting its intended goals of raising incomes and stabilizing residents’ living costs.
+
+A comprehensive overview of our recommendations [can be accessed here](https://github.com/John-Frye/housing_development_in_baltimore/blob/main/Recommendation_Frye_Tien.pdf).
+
